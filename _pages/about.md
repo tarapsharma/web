@@ -2,7 +2,7 @@
 title: " "
 header:
   overlay_image: /assets/images/utah.jpg
-  caption: "Photo Credit: **Kathleen Finlinson**"
+  caption: "Photo Credit: ** **"
 permalink: /about/
 ---
 
@@ -11,10 +11,7 @@ permalink: /about/
 <img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
 
-I help organizations understand and leverage their quantitative
-information. Call it what you will: data science, machine learning, or
-statistics; the modern technological world lies at the intersection of
-mathematics and computing, and that's where I like to play.
+I am passionate mathematician and a Ph.D. student in Mathematics at Texas A&M University (TAMU). With a deep love for numbers, structures, and their applications, my journey in mathematics has been driven by curiosity and the desire to contribute to the world of academia and beyond.
 
 I've worked with [unicorn start-ups][5] and [large publicly traded corporations][6],
 building models, establishing codebases, and providing mathematical expertise to
