@@ -4,7 +4,7 @@ title: "tara.com"
 name: "tara.com"
 email: tara@sharma.com
 url: "http://"https://tarapsharma.github.io/web/"
-repository: "https://tarapsharma.github.io/web/"
+repository: "https://tara.web/"
 
 include:
   - _pages
