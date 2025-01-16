@@ -3,8 +3,8 @@
 title: "tara.com"
 name: "tara.com"
 email: tara@p.com
-url: "http://tarapsharma.github.io/"
-repository: "tarapsharma/tarapsharma.github.io/web/"
+url: "http://tarapsharma.github.io/web"
+repository: "tarapsharma/tarapsharma.github.io/"
 
 
 include:
