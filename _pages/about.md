@@ -13,11 +13,11 @@ width="50%" hspace="20" align="right">
 
 I am passionate mathematician and a Ph.D. student in Mathematics at Texas A&M University (TAMU). With a deep love for numbers, structures, and their applications, my journey in mathematics has been driven by curiosity and the desire to contribute to the world of academia and beyond.
 
-I am working at [Sikkim Vipassana Centre][1], [2] as a course register, course manager, data analysist and actively involved in Dhamma Sewa during my fee time, voluntarily. 
+I am working at [Sikkim Vipassana Centre][1], as a course register, course manager, data analysist and actively involved in Dhamma Sewa during my fee time, voluntarily. 
 I have also worked as PGT Mathematics at Government School Tadong, Gangtok 2022.
 
 I have a bachelors degree in Mathematics from Sikkim govt. College Tadong, and MSc in Mathematics from Sikkim University, Gangtok where I did
-[my thesis][3] on The Stone-Cech compactification βX. My thesis focused on the Stone-Čech compactification 
+[my thesis][2] on The Stone-Cech compactification βX. My thesis focused on the Stone-Čech compactification 
 βX, exploring its applications in topology, functional analysis, measure theory, combinatorics, set theory, logic, and beyond. The work highlights its role in extending spaces, functions, and structures to a compact and universal framework."
 
 After spending some time pursuing other interests,[^fnote2] I began working on my
@@ -33,10 +33,9 @@ Security](https://abnormalsecurity.com/).
 	meditation.
 
 [1]: https://sikkim.dhamma.org/
-[2] : https://sineru.dhamma.org/
-[3]: /assets/docs/mscproject.pdf
+[2]: /assets/docs/mscproject.pdf
 
-[3.1]: https://www.zendust.org/monastery
+[3]: https://www.zendust.org/monastery
 
 [4]: /assets/docs/resume.pdf
 
