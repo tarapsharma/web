@@ -17,7 +17,7 @@ I am working at [Sikkim Vipassana Centre][1], [2] as a course register, course m
 I have also worked as PGT Mathematics at Government School Tadong, Gangtok 2022.
 
 I have a bachelors degree in Mathematics from Sikkim govt. College Tadong, and MSc in Mathematics from Sikkim University, Gangtok where I did
-[my thesis][2] on The Stone-Cech compactification βX. My thesis focused on the Stone-Čech compactification 
+[my thesis][3] on The Stone-Cech compactification βX. My thesis focused on the Stone-Čech compactification 
 βX, exploring its applications in topology, functional analysis, measure theory, combinatorics, set theory, logic, and beyond. The work highlights its role in extending spaces, functions, and structures to a compact and universal framework."
 
 After spending some time pursuing other interests,[^fnote2] I began working on my
