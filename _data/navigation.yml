@@ -1,11 +1,11 @@
 # the masthead
 main:
-  - title: "Home"
-    url: /
   - title: "About"
-    url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /
+  - title: "Dhamma"
+    url: /dhamma/
+  - title: "Photos"
+    url: /photos/
   - title: "Resume"
     url: /assets/docs/resume.pdf
    # - title: "Photos"
