@@ -33,32 +33,4 @@
     1. “There are no rules here -- we're trying to accomplish something.”
     2. “Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.”
 
-* Conclusion
 
-Going from "we could solve this with ML!" to an actually-viable product is often[fn:3] a
-bumpy road. Incorporating human feedback into an automated system is a key tool to help
-ease this transition. I don't have any easy recommendations here; whether and how you
-should incorporate human input into your particular product is highly dependent on the
-product and the market in which it is situated.
-
-But you should consider it. I've seen human augmentation assist ML companies at every
-stage of growth, from pre-seed to post-IPO. It is a tool that, in my opinion, every
-technology strategist should have in their toolkit.
-
-* Footnotes
-[fn:4] [[https://www.cio.com/article/274740/outsourcing-sla-definitions-and-solutions.html][Service-level agreements]], which "defines the level of service expected by a
-customer from a supplier"; in this case, the "level of service" refers to the latency of
-a system.
-
-[fn:3] Read: always.
-
-[fn:2] Even if a model is more accurate than the human-only alternative, explainability
-can still be an important psychological issue for customers. Consider a driverless car
-that has accident rates 1/10th those of an average driver; however, when it does crash,
-it does so seemingly at random. Public perception and adoption of such a product would
-(I predict) be poor, since when we are in such critical situations, we often rely on
-explanations to feel safe and in-control. Note that this may be less of an issue for
-internal-use models, where adoption can be decreed by management, and not driven by user
-perception.
-
-[fn:1] I'm not saying this is what YouTube actually does. This is just an example.
